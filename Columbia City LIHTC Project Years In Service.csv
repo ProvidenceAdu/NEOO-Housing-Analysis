@@ -1,9 +1,5 @@
-Location,Income limit level for units,Years Placed in Service,Total housing units,Low-income housing units
-Columbia City,50% AMGI,0–10 years,0.0,0.0
-Columbia City,50% AMGI,11–20 years,109.0,109.0
-Columbia City,50% AMGI,21–30 years,30.0,30.0
-Columbia City,50% AMGI,31+ years,465.0,465.0
-Columbia City,60% AMGI,0–10 years,2232.0,2216.0
-Columbia City,60% AMGI,11–20 years,1426.0,1426.0
-Columbia City,60% AMGI,21–30 years,1148.0,1148.0
-Columbia City,60% AMGI,31+ years,421.0,421.0
+Location,Years Placed in Service,Total housing units,Low-income housing units
+Columbia City,0–10 years,2232.0,2216.0
+Columbia City,11–20 years,1535.0,1535.0
+Columbia City,21–30 years,1178.0,1178.0
+Columbia City,31+ years,1126.0,934.0
